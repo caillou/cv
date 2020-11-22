@@ -5,6 +5,8 @@
   quote: >
     Incorporate teams and help with the transition to modern web application development.
   description: | # this will include new lines to allow paragraphs
+    <mark>Zeix</mark> Setup of a frontend build system leveraging the performance of <a href="https://github.com/evanw/esbuild">esbuild</a>.
+
     <mark>Republik</mark> Maintain the Node.js backend of the publication tool for an independent Swiss online newspaper and helped kick-start the transition to TypeScript. I learned a lot about the tradeoffs necessary to deploy a functioning tool in a short amount of time with a small team, which aims for 100% uptime. <a href="https://republik.ch">republik.ch</a>
 
     <mark>SBB</mark> Worked with a team of frontend developers on the relaunch of <a href="http://sbb.ch">sbb.ch</a> over the period of 3 years. While bringing in my experience in writing maintainable JS and CSS, I learned a lot about Accessibility and Analytics on this job. <a href="https://sbb.ch">sbb.ch</a>
